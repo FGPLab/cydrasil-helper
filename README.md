@@ -1,1 +1,1 @@
-# Cydrasil Helper scripts and phylgoenetic pipeline
+# Cydrasil Helper scripts and phylogenetic pipeline
